@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Acme.OOProgramming")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("0.1.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("0.1.0+4a37f3ab90b333e4797a488f295c4b644a8560c5")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("0.1.0+2aeb13a392286f1622352c00fba4ad2fbbde0055")]
 [assembly: System.Reflection.AssemblyProductAttribute("Acme.OOProgramming")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Acme.OOProgramming")]
 [assembly: System.Reflection.AssemblyVersionAttribute("0.1.0.0")]
